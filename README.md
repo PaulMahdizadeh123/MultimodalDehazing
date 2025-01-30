@@ -6,9 +6,11 @@
 
 
 # Multimodal Image Dehazing
+**We are happy to announce our paper has been accepted in "Journal of Visual Communication and Image Representation". We will be uploading the code and implementation instructions soon.**
 
-We will upload the codes and implementation instructions once our research paper has been accepted.
 
+
+Supports open access
  
 
 ## Pipeline

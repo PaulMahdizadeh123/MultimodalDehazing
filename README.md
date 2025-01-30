@@ -10,7 +10,6 @@
 
 
 
-Supports open access
  
 
 ## Pipeline
